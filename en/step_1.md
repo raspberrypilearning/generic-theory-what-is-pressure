@@ -1,6 +1,6 @@
 Pressure, generally speaking, is the force applied to a surface per unit of area. Imagine a brick sitting on a table. The force of the brick's weight is being applied through the surface area of the table which the brick touches. If you were to balance the brick on a needle, the force of its weight would be concentrated on the area of the needle's tip. Therefore, the pressure applied to the table is much higher.
 
-Atmospheric pressure (also known as barometric pressure) is the pressure exerted by the weight of air in the Earth's atmosphere. Air pressure is pushing on every part of your body all the time. The pressure inside your body is the same as outside, though, so you don't feel anything. The unit of measurement for atmospheric pressure is usually bars or millibars. One bar, which is 1000 millibars, is about equal to the atmospheric pressure on Earth at sea level.
+Atmospheric pressure (also known as barometric pressure) is the pressure exerted by the weight of air in the Earth's atmosphere. Air pressure is pushing on every part of your body all the time. You don't feel this because the pressure inside your body is the same as outside. The unit of measurement for atmospheric pressure is usually bars or millibars. One bar, which is 1000 millibars, is about equal to the atmospheric pressure on Earth at sea level.
 
 ### Facts about pressure
 
